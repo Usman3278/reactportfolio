@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Usman3278/reactportfolio/static/css/main.1dc9b250.chunk.css",
+    "main.js": "/Usman3278/reactportfolio/static/js/main.e80dcc61.chunk.js",
+    "main.js.map": "/Usman3278/reactportfolio/static/js/main.e80dcc61.chunk.js.map",
+    "runtime-main.js": "/Usman3278/reactportfolio/static/js/runtime-main.d9163355.js",
+    "runtime-main.js.map": "/Usman3278/reactportfolio/static/js/runtime-main.d9163355.js.map",
+    "static/js/2.4d5415ef.chunk.js": "/Usman3278/reactportfolio/static/js/2.4d5415ef.chunk.js",
+    "static/js/2.4d5415ef.chunk.js.map": "/Usman3278/reactportfolio/static/js/2.4d5415ef.chunk.js.map",
+    "index.html": "/Usman3278/reactportfolio/index.html",
+    "precache-manifest.b4d06ae4ea6b8f2819d10cd68483a7b8.js": "/Usman3278/reactportfolio/precache-manifest.b4d06ae4ea6b8f2819d10cd68483a7b8.js",
+    "service-worker.js": "/Usman3278/reactportfolio/service-worker.js",
+    "static/css/main.1dc9b250.chunk.css.map": "/Usman3278/reactportfolio/static/css/main.1dc9b250.chunk.css.map",
+    "static/js/2.4d5415ef.chunk.js.LICENSE.txt": "/Usman3278/reactportfolio/static/js/2.4d5415ef.chunk.js.LICENSE.txt",
+    "static/media/BugTesters.png": "/Usman3278/reactportfolio/static/media/BugTesters.f3dbd822.png",
+    "static/media/BurgersDevoured.png": "/Usman3278/reactportfolio/static/media/BurgersDevoured.ea61edbc.png",
+    "static/media/CodingQuiz.png": "/Usman3278/reactportfolio/static/media/CodingQuiz.2176540c.png",
+    "static/media/DayPlanner.png": "/Usman3278/reactportfolio/static/media/DayPlanner.b636056c.png",
+    "static/media/EmployeeDirectory.png": "/Usman3278/reactportfolio/static/media/EmployeeDirectory.80df4f6f.png",
+    "static/media/FitnessTracker.png": "/Usman3278/reactportfolio/static/media/FitnessTracker.81fd8b3f.png",
+    "static/media/MyResume.pdf": "/Usman3278/reactportfolio/static/media/MyResume.a4409b95.pdf",
+    "static/media/NoteTaker.png": "/Usman3278/reactportfolio/static/media/NoteTaker.bf7f2ecd.png",
+    "static/media/PasswordGenerator.png": "/Usman3278/reactportfolio/static/media/PasswordGenerator.3c993795.png",
+    "static/media/Profilepic.png": "/Usman3278/reactportfolio/static/media/Profilepic.711d68ea.png",
+    "static/media/TravelGuideWebsite.png": "/Usman3278/reactportfolio/static/media/TravelGuideWebsite.39f86a58.png",
+    "static/media/App.css": "/Usman3278/reactportfolio/static/media/background4.0bae6e59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9163355.js",
+    "static/js/2.4d5415ef.chunk.js",
+    "static/css/main.1dc9b250.chunk.css",
+    "static/js/main.e80dcc61.chunk.js"
+  ]
+}
