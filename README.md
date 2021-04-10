@@ -28,4 +28,7 @@ https://www.linkedin.com/in/muhammad-usman-22294b1b8/
 # Link to my GitHub Profile
 https://github.com/Usman3278/reactportfolio
 
-# Heroku Link:
+# Heroku Deploy Link: 
+
+# Screenshots:
+
