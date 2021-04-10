@@ -12,13 +12,14 @@ The application can alternatively be run as a deployed application following the
 # Technologies Used
 
 React
+Bootstrap
 HashRouter
 axios
-Github pages
-Bootstrap
 HTML
 CSS
 Javascript
+Github pages
+Bootstrap
 
 # Deployment
 
@@ -30,5 +31,5 @@ https://github.com/Usman3278/reactportfolio
 
 # Heroku Deploy Link: 
 
-# Screenshots:   
+# Screenshots:    
 
