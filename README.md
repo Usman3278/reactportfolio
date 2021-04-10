@@ -1,6 +1,24 @@
 # React Portfolio
 
+# Usage
+To use this application once installed, the user launches the application from a terminal window as follows:
 
+npm start
+
+This will then open a browser window at localhost:3000.
+
+The application can alternatively be run as a deployed application following the link in the Deployment section.
+
+# Technologies Used
+
+React
+HashRouter
+axios
+Github pages
+Bootstrap
+HTML
+CSS
+Javascript
 
 # Deployment
 
