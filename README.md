@@ -32,5 +32,5 @@ https://github.com/Usman3278/reactportfolio
 # Heroku Deploy Link: 
 https://hidden-spire-46286.herokuapp.com/ 
 
-# Screenshots:     
+# Screenshots:      
 
