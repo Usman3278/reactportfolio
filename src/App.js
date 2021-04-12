@@ -16,11 +16,11 @@ function App() {
           <Row>
             <h1 className="rounded col-sm-12 col-lg-3">Muhammad Usman</h1>
             <Navbar/>
-            {/* use switch if you want to add "*" path */}
+
             <Switch>
               <Route exact path="/portfolio" component={Portfolio} />
               <Route exact path="/contact" component={Contact} /> 
-              <Route exact path="/about" component={About} />
+              <Route exact path={["/", "/about", "*"]} component={About} />
               </Switch>  
           </Row>
         </Container>
