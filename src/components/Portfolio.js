@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import "../components/portfolio.css";
+import "./portfolio.css";
 import employee_directory from '../assets/employee_directory.png';
 import BugTesters from '../assets/BugTesters.png'; 
 import TravelGuideWebsite from '../assets/TravelGuideWebsite.png'; 
@@ -8,7 +8,7 @@ import burgers_devoured from '../assets/burgers_devoured.png';
 import fitness_tracker from '../assets/fitness_tracker.png';
 
 
-// import { BrowserRouter as Router, Link } from 'react-router-dom';
+// import { BrowserRouter as Router,Link } from 'react-router-dom';
 class Portfolio extends Component {
     portfolioData = {
         "portfolio": [

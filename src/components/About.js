@@ -1,6 +1,6 @@
 import React from "react";
-import "../components/about.css";
-import resume from '../assets/MyResume.pdf'; 
+import "./about.css";
+import resume from '../assets/MyResume.pdf';
 
 function About() {
     return (
@@ -11,10 +11,10 @@ function About() {
                         <h2 class="text-center mt-0">About Me</h2>
                         <hr class="divider" />
                         <div class="typewriter">
-                            <h4 class="mb-0 css-typing"> Proficient with HTML5, CSS3, JavaScript, jQuery, Java, Bootstrap, Express.js, React.js, Node.js, MongoDB, and MySQL.
+                            <h4 class="mb-0 css-typing">Proficient with HTML5, CSS3, JavaScript, jQuery, Java, Bootstrap, Express.js, React.js, Node.js, MongoDB, and MySQL.
                   Developed in areas of organization, planning and maintaining deadlines and completing priorities. Eager to learn the new skills.
                   Adopt at setting up achieving goals. Managing time and analyzing to solve problems.</h4>
-                            <h4 class="mb-0 css-typing">Received a certificate of completion after graduating from GW coding boot camp. 
+                            <h4 class="mb-0 css-typing">  Received a certificate of completion after graduating from GW coding boot camp. 
                   Excels at collaborating or working individually, as demonstrated in each project and throughout career.</h4>
                             <h4 class="mb-0 css-typing">
                             Seeking to continue my professional development and utilize my knowledge in marketing and design to affect positive change on a global scale.</h4>

@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/contact.css";
+import "./contact.css";
 
 function Contact() {
     return (
@@ -43,12 +43,12 @@ function Contact() {
             <div className="banner-text">
                 <h3 className="responsive-headline">Contact Me</h3>
                 <div class="typewriterNew">
-                    <h5>Feel free to contact me for future opportunities.</h5>
+                    <h5>Feel free to contact me for future opportunities or to just say hi!</h5>
                 </div>
                 <hr className="divider" />
                 <ul className="social">
-                    <li key="instagram">
-                        <a href="https://www.gmail.com" target="_blank" >
+                    <li key="gmail">
+                        <a href="https://mail.google.com/" target="_blank" >
                             <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" class="GMAIL" />
                         </a>
                         <i className="fa fa-gmail" />
